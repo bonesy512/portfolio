@@ -10,6 +10,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-5QPMT126HB"></script>
         <meta name="robots" content="follow, index" />
         <meta name="description" content={meta.description} />
         <meta property="og:site_name" content={meta.title} />
