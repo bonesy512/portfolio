@@ -6,5 +6,6 @@ tag: web development, graphic design, startup, DAO
 author: Thomas M Schustereit
 ---
 
-It has to be almost two years or more since ive written a blog post, but I need to get back on this horse and ride. 
+It has to be almost two years or more since ive written a blog post, but I need to get back on this horse and ride.
+I think i will start with releasing the build up of artwork ive made over the years.
 I'm Thomas Schustereit.
