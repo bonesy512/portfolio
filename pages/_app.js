@@ -7,6 +7,15 @@ export default function Nextra({ Component, pageProps }) {
   return (
     <>
       <Head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5QPMT126HB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5QPMT126HB');
+</script>
         <link
           rel="alternate"
           type="application/rss+xml"
